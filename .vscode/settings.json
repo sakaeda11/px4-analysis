@@ -1,7 +1,7 @@
 {
 	"plantuml" :{
 		"diagramsRoot": "src",
-		"exportOutDir": "dist",
+		"exportOutDir": "doc/img",
 		"exportFormat": "png",
 		"exportSubFolder": false,
 		"exportConcurrency": 3,
