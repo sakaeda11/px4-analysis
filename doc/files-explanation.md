@@ -77,7 +77,7 @@ FMU(flight management unit)に書き込まれるファイルに関する設定�
 
 # Tools/
 様々な関連ツールの置き場
-[詳細](doc/Tools.md)
+[詳細](/doc/Tools.md)
 
 # boards/
 各種フライトコントローラ基盤毎の設定
