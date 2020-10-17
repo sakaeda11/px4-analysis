@@ -168,6 +168,7 @@ https://github.com/ycm-core/YouCompleteMe
 
 # CMakeLists.txt
 CMakeLists.txt
+https://cmake.org/cmake/help/latest/
 [詳細](./CMakeLists.md)
 
 # CODE_OF_CONDUCT.md
